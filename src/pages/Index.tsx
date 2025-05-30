@@ -35,7 +35,7 @@ const Index = () => {
                     </ul>
                   </div>
                   <div className="text-xs text-yellow-400 bg-yellow-400/10 p-2 rounded">
-                    Note: This demo requires a Socket.IO server running on localhost:3001
+                    Note: This demo requires a Socket.IO server running on localhost:3001. See README for setup instructions.
                   </div>
                 </div>
               </div>
